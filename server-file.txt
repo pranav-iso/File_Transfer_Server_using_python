@@ -1,1 +1,3 @@
-Hi! I am from the server, but I belong to the client.
+Hi.
+This file belongs to server.
+This file can be used for demo.
